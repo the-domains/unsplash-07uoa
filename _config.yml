@@ -1,0 +1,14 @@
+layout_spectrum: 0.805406556231901
+typography_spectrum: 0.7012977511622012
+color:
+  brandStrength: 0.5514203507918864
+  lightness: 0.0586362408939749
+  saturation: 0.14725422603078187
+  rhythmicContrast: 0.8852205756120384
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+name: Unsplash
